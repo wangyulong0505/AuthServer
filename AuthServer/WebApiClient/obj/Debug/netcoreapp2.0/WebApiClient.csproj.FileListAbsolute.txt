@@ -1,0 +1,11 @@
+E:\Githurb\AuthServer\AuthServer\WebApiClient\bin\Debug\netcoreapp2.0\WebApiClient.deps.json
+E:\Githurb\AuthServer\AuthServer\WebApiClient\bin\Debug\netcoreapp2.0\WebApiClient.runtimeconfig.json
+E:\Githurb\AuthServer\AuthServer\WebApiClient\bin\Debug\netcoreapp2.0\WebApiClient.runtimeconfig.dev.json
+E:\Githurb\AuthServer\AuthServer\WebApiClient\bin\Debug\netcoreapp2.0\WebApiClient.dll
+E:\Githurb\AuthServer\AuthServer\WebApiClient\obj\Debug\netcoreapp2.0\WebApiClient.csprojResolveAssemblyReference.cache
+E:\Githurb\AuthServer\AuthServer\WebApiClient\obj\Debug\netcoreapp2.0\WebApiClient.csproj.CoreCompileInputs.cache
+E:\Githurb\AuthServer\AuthServer\WebApiClient\obj\Debug\netcoreapp2.0\WebApiClient.AssemblyInfoInputs.cache
+E:\Githurb\AuthServer\AuthServer\WebApiClient\obj\Debug\netcoreapp2.0\WebApiClient.AssemblyInfo.cs
+E:\Githurb\AuthServer\AuthServer\WebApiClient\bin\Debug\netcoreapp2.0\WebApiClient.pdb
+E:\Githurb\AuthServer\AuthServer\WebApiClient\obj\Debug\netcoreapp2.0\WebApiClient.dll
+E:\Githurb\AuthServer\AuthServer\WebApiClient\obj\Debug\netcoreapp2.0\WebApiClient.pdb

@@ -1,0 +1,11 @@
+E:\Githurb\AuthServer\AuthServer\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.deps.json
+E:\Githurb\AuthServer\AuthServer\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.runtimeconfig.json
+E:\Githurb\AuthServer\AuthServer\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.runtimeconfig.dev.json
+E:\Githurb\AuthServer\AuthServer\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.dll
+E:\Githurb\AuthServer\AuthServer\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.pdb
+E:\Githurb\AuthServer\AuthServer\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.csprojResolveAssemblyReference.cache
+E:\Githurb\AuthServer\AuthServer\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.csproj.CoreCompileInputs.cache
+E:\Githurb\AuthServer\AuthServer\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.AssemblyInfoInputs.cache
+E:\Githurb\AuthServer\AuthServer\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.AssemblyInfo.cs
+E:\Githurb\AuthServer\AuthServer\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.dll
+E:\Githurb\AuthServer\AuthServer\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.pdb
